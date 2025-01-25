@@ -1,3 +1,3 @@
 # 5CInformatica
-Gpoi<br>
+Gpoi
 Ciao 5C informatica
